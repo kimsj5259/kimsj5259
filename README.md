@@ -1,15 +1,15 @@
 # Multi-cultural Person
-
+</br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimsj5259&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </br>
 ### 👋 Hi, I'm ESFJ-A
 </br>
-###  Passionate about my own life 
+### 🔭 Passionate about my own life 
 </br>
-### <全神贯注>, <一回生, 二回熟, 三会老朋友>
+### 🌱 <全神贯注>, <一回生, 二回熟, 三会老朋友>
 </br>
-### Reach me: kimsj5259@gmail.com
+### 📫 Reach me: kimsj5259@gmail.com
 
 <!-- 
 - 🔭 I’m currently working on Bootcamp.
