@@ -5,11 +5,11 @@
 </br>
 ### 👋 Hi, I'm ESFJ-A
 </br>
-### 🔭 Passionate about my own life
+#### 🔭 Passionate about my own life
 </br>
-### 🌱 <全神贯注>, <一回生, 二回熟, 三会老朋友>
+#### 🌱 <全神贯注>, <一回生, 二回熟, 三会老朋友>
 </br>
-### 📫 Reach me: kimsj5259@gmail.com
+#### 📫 Reach me: kimsj5259@gmail.com
 
 
 
