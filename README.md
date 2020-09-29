@@ -21,6 +21,3 @@
 - 💬 Feel free to ask me about personal background & programming skills.
 - 📫 How to reach me: kimsj5259@gmail.com
 -->
-
-
-
