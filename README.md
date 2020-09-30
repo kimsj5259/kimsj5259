@@ -5,7 +5,7 @@
 </br>
 ### 👋 Hi, I'm ESFJ-A
 
-#### 🔭 Passionate about my own life
+#### 🔭 Passionate about coding
 
 #### 🌱 <全神贯注>, <一回生, 二回熟, 三会老朋友>
 
