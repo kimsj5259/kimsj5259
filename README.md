@@ -5,7 +5,7 @@
 </br>
 ### 👋 Hi, my name Jin
 
-#### 🔭 Passionate about coding
+#### 🔭 Currently working at Crypto Currency Exchange industry & interested in blockchain tech related with WEB3
 
 #### 🌱 <全神贯注>, <一回生, 二回熟, 三会老朋友>
 
